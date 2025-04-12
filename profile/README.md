@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../../assets/logo.png" alt="Guiar.me Logo" width="200"/>
+</div>
+
 # Overview
 
 The development of the Guiar.me is divided into four main projects. Each project has a specific responsibility, ensuring a clear separation of functions and facilitating the maintenance and evolution of the product.
