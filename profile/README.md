@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../../assets/logo.png" alt="Guiar.me Logo" width="200"/>
+  <img src="../assets/logo.png" alt="Guiar.me Logo" width="200"/>
 </div>
 
 # Overview
